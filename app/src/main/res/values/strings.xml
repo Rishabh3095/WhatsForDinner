@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">What\'sForDinner</string>
+    <string name="Items">Choose item</string>
+
+    <string-array name="country_arrays">
+        <item>Onion</item>
+        <item>Tomato</item>
+        <item>Paneer</item>
+        <item>Mirchi</item>
+        <item>Jigar</item>
+        <item>Piya</item>
+        <item>New Zealand</item>
+        <item>India</item>
+    </string-array>
+</resources>
